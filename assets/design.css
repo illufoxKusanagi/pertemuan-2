@@ -1,0 +1,22 @@
+body{
+    background-image: url(bglol.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}  
+
+h1{
+    color: #2161c8;
+}
+
+.form{
+    border: solid #2161c8;
+    padding: 5px;
+    margin: 240px 480px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #69a0f9;
+}
+
+.btn{
+    color: #69a0f9;
+}
